@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "longitems:items/long_diamond_sword"
+  }
+}

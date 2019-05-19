@@ -1,0 +1,16 @@
+[
+{
+  "modid": "longitems",
+  "name": "Long Items",
+  "description": "UwU",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["meow10811"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
