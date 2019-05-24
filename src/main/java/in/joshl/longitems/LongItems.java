@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = LongItems.modId, name = LongItems.name, version = LongItems.version)
+@Mod(modid = LongItems.modId, name = LongItems.name, version = LongItems.version, acceptedMinecraftVersions = "[1.12.2]")
 public class LongItems {
 
     public static final String modId = "longitems";

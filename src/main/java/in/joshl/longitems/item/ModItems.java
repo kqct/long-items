@@ -8,7 +8,7 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModItems {
 
-    public static ItemSword longDiamondSword = new ItemSword(LongItems.longDiamondToolMaterial, "long_diamond_sword").setCreativeTab(CreativeTabs.COMBAT);
+    public static ItemSword longDiamondSword = new ItemSword(LongItems.longDiamondToolMaterial, "longitems.diamond_sword").setCreativeTab(CreativeTabs.COMBAT);
 
     public static void register(IForgeRegistry<Item> registry) {
         registry.registerAll(
